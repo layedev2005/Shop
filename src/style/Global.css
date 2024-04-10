@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+    padding: 12px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1f1f1;
+}
+
+.global{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 72px;
+    
+}
+.cardG{
+    width: 250px;
+    margin: 10px auto;
+    align-items: center;
+    justify-content: center;
+
+}

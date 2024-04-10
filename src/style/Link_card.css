@@ -1,0 +1,26 @@
+.cardLink{
+    width: 100px;
+    height: 100px;
+    background: #323432;
+    border-radius:8px ;
+    overflow: hidden;
+    margin: 12px auto;
+}
+.card_cat{
+    /* color: aqua; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #f1f3f1;
+
+}
+.card_cat h4{
+    align-items: center;
+    /* background-color: red; */
+    /* top: 12px; */
+    padding: 40px 0 ;
+}
+.cardLink:hover{
+    background: #000000;
+    color: #f1f3f1;
+}
